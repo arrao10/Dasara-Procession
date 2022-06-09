@@ -1,0 +1,2 @@
+# Dasara-Procession
+The mini-project demonstrates the use of keyboard and menu interface. When a predefined key and mouse button is pressed the corresponding action takes place. In an OpenGL project create a 2D view of a Dasara Procession. It includes Ambari, Palace, Tableaux, Elephants and Musicians. It shows the movement of the Musicians, Tableaux and the movement of Ambari with multiple Elephants. It also shows the Day and Night mode of palace. 
